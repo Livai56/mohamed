@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Taslim Ecole",
+    "slug": "taslim-ecole-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "taslim-ecole",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
